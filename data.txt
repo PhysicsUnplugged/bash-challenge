@@ -1,0 +1,46 @@
+ENVIRONMENT                HOSTNAME                          PORT  APPLICATION                   PACKAGE/IMAGE  DISABLED
+========================================================================================================================
+env1                     reno-env01-apphost03.rno.apple.com  8560  ASPEN-us-consumer                              no
+env1                     reno-env01-apphost03.rno.apple.com  8563  ASPEN-amr-consumer                             no
+env1                     reno-env01-apphost03.rno.apple.com  8585  ASPEN-japan-telesales                          no
+env1                     reno-env01-apphost03.rno.apple.com  8590  ASPEN-emea-central-edu                         no
+env1                     reno-env01-apphost03.rno.apple.com  8592  ASPEN-emea-internet                            no
+env1                     reno-env01-apphost04.rno.apple.com  8562  ASPEN-us-edu                                   no
+env1                     reno-env01-apphost04.rno.apple.com  8563  ASPEN-amr-internet                             no
+env1                     reno-env01-apphost04.rno.apple.com  8582  ASPEN-japan-internet                           no
+env1                     reno-env01-apphost04.rno.apple.com  8592  ASPEN-emea-edu                                 no
+env1                     reno-env01-apphost04.rno.apple.com  8593  ASPEN-emea-north-consumer                      no
+env1                     reno-env01-apphost05.rno.apple.com  8564  ASPEN-amr-smb                                  no
+env1                     reno-env01-apphost05.rno.apple.com  8575  ASPEN-apac-telesales                           no
+env1                     reno-env01-apphost05.rno.apple.com  8591  ASPEN-emea-consumer                            no
+env1                     reno-env01-apphost05.rno.apple.com  8595  ASPEN-emea-telesales                           no
+env1                     reno-env01-apphost05.rno.apple.com  8596  ASPEN-emea-north-edu                           no
+env1                     reno-env01-apphost06.rno.apple.com  8563  ASPEN-amr-consumer                             no
+env1                     reno-env01-apphost06.rno.apple.com  8565  ASPEN-amr-telesales                            no
+env1                     reno-env01-apphost06.rno.apple.com  8572  ASPEN-apac-internet                            no
+env1                     reno-env01-apphost06.rno.apple.com  8592  ASPEN-emea-central-consumer                    no
+env1                     reno-env01-apphost06.rno.apple.com  8597  ASPEN-emea-central-telesales                   no
+env1                     reno-env01-apphost06.rno.apple.com  8598  ASPEN-emea-north-telesales                     no
+env2                     reno-env02-apphost07.rno.apple.com  8563  ASPEN-amr-internet                             no
+env2                     reno-env02-apphost07.rno.apple.com  8571  ASPEN-apac-consumer                            no
+env2                     reno-env02-apphost07.rno.apple.com  8592  ASPEN-emea-central-consumer                    no
+env2                     reno-env02-apphost07.rno.apple.com  8598  ASPEN-emea-north-telesales                     no
+env2                     reno-env02-apphost08.rno.apple.com  8564  ASPEN-amr-smb                                  yes
+env2                     reno-env02-apphost08.rno.apple.com  8575  ASPEN-apac-telesales                           no
+env2                     reno-env02-apphost08.rno.apple.com  8590  ASPEN-emea-central-edu                         no
+env2                     reno-env02-apphost08.rno.apple.com  8591  ASPEN-emea-consumer                            no
+env2                     reno-env02-apphost08.rno.apple.com  8595  ASPEN-emea-telesales                           no
+env2                     reno-env02-apphost08.rno.apple.com  8596  ASPEN-emea-north-edu                           no
+env2                     reno-env02-apphost09.rno.apple.com  8562  ASPEN-us-edu                                   no
+env2                     reno-env02-apphost09.rno.apple.com  8565  ASPEN-amr-telesales                            no
+env2                     reno-env02-apphost09.rno.apple.com  8572  ASPEN-apac-internet                            no
+env2                     reno-env02-apphost09.rno.apple.com  8582  ASPEN-japan-internet                           no
+env2                     reno-env02-apphost09.rno.apple.com  8592  ASPEN-emea-edu                                 no
+env2                     reno-env02-apphost09.rno.apple.com  8593  ASPEN-emea-north-consumer                      yes
+env2                     reno-env02-apphost09.rno.apple.com  8597  ASPEN-emea-central-telesales                   no
+env2                     reno-env02-apphost10.rno.apple.com  8560  ASPEN-us-consumer                              no
+env2                     reno-env02-apphost10.rno.apple.com  8571  ASPEN-apac-consumer                            no
+env2                     reno-env02-apphost10.rno.apple.com  8585  ASPEN-japan-telesales                          no
+env2                     reno-env02-apphost10.rno.apple.com  8592  ASPEN-emea-internet                            no
+
+42 total records
